@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Test suite for parse-server adapters",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parse-server-modules/parse-server-conformance-tests.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
