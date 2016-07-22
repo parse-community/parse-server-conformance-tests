@@ -4,5 +4,8 @@
   "description": "Test suite for parse-server adapters",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parse": "^1.9.0"
+  }
 }
